@@ -15,7 +15,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Start</mainClass>
+                            <mainClass>test.Start</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
