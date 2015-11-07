@@ -15,7 +15,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.xervanik.test.test.Start</mainClass>
+                            <mainClass>Start</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
